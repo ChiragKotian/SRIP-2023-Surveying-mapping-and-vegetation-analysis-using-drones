@@ -21,7 +21,7 @@ Over the time, mapping and survey methods have evolved significantly. It started
  instruments such as transits and optical theodolites were used to measure azimuth and vertical
  angles; and tapes and other electronic distance-measuring instruments with relatively good
  accuracies were used. Currently, advanced technologies like satellite remote sensing systems,
- Global Positioning System (GPS), and Robotic Total Station (RTS) instruments are utilised to
+ Global Positioning System (GPS) and Robotic Total Station (RTS) instruments are utilised to
  perform large-scale mapping of the areas
 . From being a tool of interest to a relatively
  narrow group of surveyors and instrument designers, the use of photography in surveying and
@@ -50,9 +50,19 @@ This study aims to explore the use of unmanned aerial vehicles, such as drones, 
  red, green, and blue channels, we successfully identified areas covered with vegetation,
  providing valuable insights without the need for expensive multi-spectrum imaging.
 
- ## You can read the complete report made by us for the project which describes the steps involved methodology etc. [here](https://github.com/ChiragKotian/SRIP-2023-Surveying-mapping-and-vegetation-analysis-using-drones/blob/main/SRIP___Chirag_and_Smit___Drone_Survey_compressed.pdf)
+ ## You can read the complete project report made by us, which describes the steps involved, research methodology etc. [here](https://github.com/ChiragKotian/SRIP-2023-Surveying-mapping-and-vegetation-analysis-using-drones/blob/main/SRIP___Chirag_and_Smit___Drone_Survey_compressed.pdf)
 
 ## Some videos:
+
+
+https://github.com/ChiragKotian/SRIP-2023-Surveying-mapping-and-vegetation-analysis-using-drones/assets/117931123/dc75d85d-ecc4-4a17-b373-1269fa9da531
+
+
+
+
+https://github.com/ChiragKotian/SRIP-2023-Surveying-mapping-and-vegetation-analysis-using-drones/assets/117931123/bfd5c2f6-30aa-488d-a6e3-fe27dd3d23ad
+
+
 
 
 
