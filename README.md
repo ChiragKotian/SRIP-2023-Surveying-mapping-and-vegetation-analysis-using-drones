@@ -1,5 +1,5 @@
 # Surveying, mapping and vegetation analysis using drones:
-This project was one of the projects I was working on while doing an Internship under the program SRIP-2023 at HCR lab, IIT Gandhinagar under the guidance of Prof. Vineet Vashista and PhD guide, Pratik Prajapati.
+This project was one of the projects I was working on while doing an Internship under the program SRIP-2023 at HCR lab, IIT Gandhinagar, under the guidance of Prof. Vineet Vashista and PhD guide, Pratik Prajapati.
 
 ![20230516_121506](https://github.com/ChiragKotian/SRIP-2023-Surveying-mapping-and-vegetation-analysis-using-drones/assets/117931123/d72e5aae-bf55-4502-94f7-c622020f13d9)
 
@@ -56,9 +56,13 @@ This study aims to explore the use of unmanned aerial vehicles, such as drones, 
 
 
 
-https://github.com/ChiragKotian/SRIP-2023-Surveying-mapping-and-vegetation-analysis-using-drones/assets/117931123/c28e144f-37d7-4218-aef2-f2e9b055ad4d
 
 
+
+
+
+
+https://github.com/ChiragKotian/SRIP-2023-Surveying-mapping-and-vegetation-analysis-using-drones/assets/117931123/188d312c-93de-48e5-ba6f-4c297c3e800d
 
 
 
@@ -71,4 +75,4 @@ https://github.com/ChiragKotian/SRIP-2023-Surveying-mapping-and-vegetation-analy
 
 
 ## Credits:
-This project was made by [@ChiragKotian](https://github.com/ChiragKotian) and [@Smithm06](https://github.com/Smitm06) under the guidance of Prof. Vineet Vashista and PhD guide, Pratik Prajapati at HCR lab in IIT Gandhinagar under SRIP-2023.
+This project was made by [@ChiragKotian](https://github.com/ChiragKotian) and [@Smithm06](https://github.com/Smitm06) under the guidance of Prof. Vineet Vashista and PhD guide, Pratik Prajapati([@pratikiitgn](https://github.com/pratikiitgn)) at HCR lab in IIT Gandhinagar under SRIP-2023.
