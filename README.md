@@ -44,7 +44,7 @@ This study aims to explore the use of unmanned aerial vehicles, such as drones, 
  red, green, and blue channels, we successfully identified areas covered with vegetation,
  providing valuable insights without the need for expensive multi-spectrum imaging.
 
- ## You can read the report made by us [here](https://github.com/ChiragKotian/SRIP-2023-Surveying-mapping-and-vegetation-analysis-using-drones/files/12182853/SRIP___Chirag_and_Smit___Drone_Survey_compressed.pdf)
+ ## You can read the report made by us ![here](https://github.com/ChiragKotian/SRIP-2023-Surveying-mapping-and-vegetation-analysis-using-drones/blob/main/SRIP___Chirag_and_Smit___Drone_Survey_compressed.pdf)
 
 ## Credits:
 This project was made by [@ChiragKotian](https://github.com/ChiragKotian) and [@Smithm06](https://github.com/Smitm06) under the guidance of Prof. Vineet Vashista and PhD guide, Pratik Prajapati.
