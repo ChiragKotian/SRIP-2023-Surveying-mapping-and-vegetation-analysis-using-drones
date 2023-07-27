@@ -1,5 +1,12 @@
 # Surveying, mapping and vegetation analysis using drones:
 This project was one of the projects I was working on while doing an Internship under the program SRIP-2023 at HCR lab, IIT Gandhinagar under the guidance of Prof. Vineet Vashista and PhD guide, Pratik Prajapati.
+
+![20230516_121506](https://github.com/ChiragKotian/SRIP-2023-Surveying-mapping-and-vegetation-analysis-using-drones/assets/117931123/d72e5aae-bf55-4502-94f7-c622020f13d9)
+
+
+
+![WhatsApp Image 2023-07-05 at 14 45 225](https://github.com/ChiragKotian/SRIP-2023-Surveying-mapping-and-vegetation-analysis-using-drones/assets/117931123/097475b4-c1ba-4612-aa18-de4058b72d5c)
+
 ## Abstract: 
 Surveying and mapping is the process of collecting information on physical features of the Earth’s surface, which are used to create maps and models by analysing and creating
  representations and depictions of it. These techniques have been deployed in various
@@ -8,7 +15,6 @@ Surveying and mapping is the process of collecting information on physical featu
  parameters such as crop health, soil fertility, water availability, etc., are important to be
  regulated. In this context, surveying and mapping provide an easy and useful technique to
  evaluate these parameters for maximising agricultural yield.
-
 
 Over the time, mapping and survey methods have evolved significantly. It started with simple
  tools like compasses and chains used to measure azimuth and distances. Progressively,
@@ -44,7 +50,11 @@ This study aims to explore the use of unmanned aerial vehicles, such as drones, 
  red, green, and blue channels, we successfully identified areas covered with vegetation,
  providing valuable insights without the need for expensive multi-spectrum imaging.
 
- ## You can read the report made by us ![here](https://github.com/ChiragKotian/SRIP-2023-Surveying-mapping-and-vegetation-analysis-using-drones/blob/main/SRIP___Chirag_and_Smit___Drone_Survey_compressed.pdf)
+ ## You can read the complete report made by us for the project which describes the steps involved methodology etc. [here](https://github.com/ChiragKotian/SRIP-2023-Surveying-mapping-and-vegetation-analysis-using-drones/blob/main/SRIP___Chirag_and_Smit___Drone_Survey_compressed.pdf)
+
+## Some videos:
+
+
 
 ## Credits:
-This project was made by [@ChiragKotian](https://github.com/ChiragKotian) and [@Smithm06](https://github.com/Smitm06) under the guidance of Prof. Vineet Vashista and PhD guide, Pratik Prajapati.
+This project was made by [@ChiragKotian](https://github.com/ChiragKotian) and [@Smithm06](https://github.com/Smitm06) under the guidance of Prof. Vineet Vashista and PhD guide, Pratik Prajapati at HCR lab in IIT Gandhinagar under SRIP-2023.
