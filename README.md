@@ -55,7 +55,11 @@ This study aims to explore the use of unmanned aerial vehicles, such as drones, 
 ## Some videos:
 
 
-https://github.com/ChiragKotian/SRIP-2023-Surveying-mapping-and-vegetation-analysis-using-drones/assets/117931123/dc75d85d-ecc4-4a17-b373-1269fa9da531
+
+https://github.com/ChiragKotian/SRIP-2023-Surveying-mapping-and-vegetation-analysis-using-drones/assets/117931123/c28e144f-37d7-4218-aef2-f2e9b055ad4d
+
+
+
 
 
 
